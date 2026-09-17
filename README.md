@@ -7,5 +7,5 @@ Uma empresa responsável pela integração de serviços digitais em cidades inte
 Este projeto foi desenvolvido colaborativamente por:
 * [Arthur Fontoura](https://github.com/Arthur-Fontoura)
 * [Kevin Adiel](https://github.com/kevinadieldasilva-crypto)
-* [Matheus]
+* [Matheus](https://github.com/ghostdarkboss1212)
 
