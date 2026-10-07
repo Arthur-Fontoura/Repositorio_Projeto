@@ -5,29 +5,29 @@ Uma empresa responsável pela integração de serviços digitais em cidades inte
 
 ## Cronograma e Etapas do projeto
 - [x] **17/09 — Encontro 1: Compreender e planejar**
-  - [ ] Analisar a situação-problema.
-  - [ ] Identificar fatos, termos desconhecidos e informações necessárias.
-  - [ ] Formular o problema e as hipóteses.
-  - [ ] Definir os conhecimentos que precisam ser estudados.
-  - [ ] Escolher a configuração experimental e elaborar o protocolo.
+  - [x] Analisar a situação-problema.
+  - [x] Identificar fatos, termos desconhecidos e informações necessárias.
+  - [x] Formular o problema e as hipóteses.
+  - [x] Definir os conhecimentos que precisam ser estudados.
+  - [x] Escolher a configuração experimental e elaborar o protocolo.
   - **Entregável:** Preencher e entregar a Ficha de Pré-registro Experimental.
 
-- [ ] **18/09 a 23/09 — Entre os encontros: Investigar e preparar**
-  - [ ] Estudar os conceitos necessários.
-  - [ ] Revisar o funcionamento do microbenchmark.
-  - [ ] Preparar os ambientes Windows e Linux (dual boot ou VMs equivalentes).
-  - [ ] Instalar e verificar o Python.
-  - [ ] Registrar as configurações de hardware e software na documentação.
+- [x] **18/09 a 23/09 — Entre os encontros: Investigar e preparar**
+  - [x] Estudar os conceitos necessários.
+  - [x] Revisar o funcionamento do microbenchmark.
+  - [x] Preparar os ambientes Windows e Linux (dual boot ou VMs equivalentes).
+  - [x] Instalar e verificar o Python.
+  - [x] Registrar as configurações de hardware e software na documentação.
 
-- [ ] **24/09 — Encontro 2: Analisar e decidir**
-  - [ ] Executar o microbenchmark em ambos os sistemas.
-  - [ ] Coletar as métricas em arquivos CSV.
-  - [ ] Validar e manipular os dados utilizando Python.
-  - [ ] Comparar os tempos das operações, gerar tabelas e gráficos.
-  - [ ] Interpretar os resultados e formular a recomendação fundamentada.
+- [x] **24/09 — Encontro 2: Analisar e decidir**
+  - [x] Executar o microbenchmark em ambos os sistemas.
+  - [x] Coletar as métricas em arquivos CSV.
+  - [x] Validar e manipular os dados utilizando Python.
+  - [x] Comparar os tempos das operações, gerar tabelas e gráficos.
+  - [x] Interpretar os resultados e formular a recomendação fundamentada.
 
-- [ ] **Até 08/10 — Entrega final: Comunicar as evidências**
-  - [ ] Organizar os códigos-fonte, arquivos CSV, scripts de análise e documentação no repositório.
+- [x] **Até 08/10 — Entrega final: Comunicar as evidências**
+  - [x] Organizar os códigos-fonte, arquivos CSV, scripts de análise e documentação no repositório.
   - [ ] Redigir o relatório final seguindo obrigatoriamente o [template oficial da instituição](https://docs.google.com/document/d/1HWtDClZUe0hsOobUnA6P6ruQTOeLLLCYexSio7TUXt8/copy?tab=t.0).
 
 ---
