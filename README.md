@@ -38,7 +38,7 @@ pip install pandas matplotlib seaborn
 
 ---
 
-## 6\. Guia de Reprodução Passo a Passo
+## \. Guia de Reprodução Passo a Passo
 
 A reprodução do experimento é realizada em três etapas sequenciais: amostragem, validação/unificação dos logs e geração da análise estatística.
 
@@ -53,9 +53,9 @@ python scripts/medicao_geral.py
 
 O script executará o laço de 100 repetições para cada bloco de 100 MB a 1.000 MB, aplicando a sequência de operações:
 
-* **Alocação**: `bloco = bytearray(tamanho)`
+* **Alocação**: `bloco = bytearray(bloco_bytes)`
 * **Escrita**: `bloco[:] = padrao`
-* **Leitura**: `bloco[:]` (ou `sum(bloco)`)
+* **Leitura**: `soma = sum(bloco)`
 * **Liberação**: `bloco.clear()` e `del bloco`
 
 Após a conclusão em cada ambiente, armazene os arquivos na pasta `logs/` com os nomes `logs_windows.csv` e `logs_linux.csv`.
