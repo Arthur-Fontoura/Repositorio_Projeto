@@ -27,7 +27,7 @@ Para garantir o isolamento da variável independente (Sistema Operacional) e a c
 * **Configuração de Hardware**: Execução em máquina física única via *Dual-Boot* ou em duas Máquinas Virtuais (*VMs*) idênticas no mesmo computador hospedeiro com idêntica atribuição de vCPUs e memória RAM.
 * **Ambiente Python**: Mesma versão do interpretador Python 3.x instalada em ambos os sistemas.
 * **Isolamento de Processos**: Fechamento de todas as aplicações não essenciais em segundo plano durante as rotinas de amostragem.
-  ## 5\. Pré-requisitos e Dependências
+  ## \. Pré-requisitos e Dependências
 
 Para executar os scripts de coleta, processamento e análise, são necessários a linguagem Python e as bibliotecas especializadas para ciência de dados. As dependências podem ser instaladas diretamente via gerenciador de pacotes `pip`:
 
