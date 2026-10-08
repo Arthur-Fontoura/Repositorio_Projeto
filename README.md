@@ -92,6 +92,6 @@ O script gera os seguintes artefatos analíticos:
 * **`comparativo_final.png`**: Painel $2 \\times 2$ contendo os gráficos de linha por operação com margem de erro baseada no desvio padrão (`errorbar='sd'`).
 * **`comparativo_tempo_total.png`**: Gráfico consolidado do tempo total do ciclo de memória ($T\_{\\text{total}} = T\_{\\text{alloc}} + T\_{\\text{write}} + T\_{\\text{read}} + T\_{\\text{free}}$).
 
-  * **Arthur F. Fontoura** — [GitHub](https://github.com/Arthur-Fontoura)
+* **Arthur F. Fontoura** — [GitHub](https://github.com/Arthur-Fontoura)
 * **Matheus Meggiolaro** — [GitHub](https://github.com/ghostdarkboss1212)
 * **Kevin adiel** — [GitHub](https://github.com/kevinadieldasilva-crypto)
